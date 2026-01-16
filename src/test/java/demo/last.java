@@ -7,5 +7,6 @@ public class last {
 	public void dog() {
 		
 		System.out.println("dog barks");
+		System.out.println("bow bow");
 	}
 }
