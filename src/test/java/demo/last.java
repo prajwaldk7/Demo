@@ -10,6 +10,6 @@ public class last {
 		System.out.println("hihihi");
 		System.out.println("yy");
 		System.out.println("qwerty");
-		System.out.println("bye");
+		System.out.println("byejj");
 	}
 }
