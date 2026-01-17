@@ -8,5 +8,6 @@ public class last {
 		
 		System.out.println("dog barks");
 		System.out.println("bow bow");
+		System.out.println("yy");
 	}
 }
